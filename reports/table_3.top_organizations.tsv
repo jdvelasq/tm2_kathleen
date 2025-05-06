@@ -1,0 +1,101 @@
+organizations	rank_occ	rank_gcs	rank_lcs	OCC	global_citations	local_citations	first_publication_year	last_year	age	global_citations_per_year	local_citations_per_year	global_citations_per_document	local_citations_per_document	h_index	g_index	m_index	counters
+Univ of Leeds (GBR)	1	1	27	6	268	0	2007	2025	19	14.105263157894736	0.0	44.666666666666664	0.0	5	3	0.26	Univ of Leeds (GBR) 6:268
+Sebelas Maret Univ (IDN)	2	31	1	6	51	5	2020	2025	6	8.5	0.8333333333333334	8.5	0.8333333333333334	3	3	0.5	Sebelas Maret Univ (IDN) 6:051
+Nac Chi Nan Univ (TWN)	3	98	98	5	9	0	2007	2025	19	0.47368421052631576	0.0	1.8	0.0	1	1	0.05	Nac Chi Nan Univ (TWN) 5:009
+Budapest Univ of Technol and Econ (HUN)	4	73	76	4	23	0	2023	2025	3	7.666666666666667	0.0	5.75	0.0	1	1	0.33	Budapest Univ of Technol and Econ (HUN) 4:023
+Indian Inst of Technol Kharagpur (IND)	5	2	28	3	181	0	2020	2025	6	30.166666666666668	0.0	60.333333333333336	0.0	3	2	0.5	Indian Inst of Technol Kharagpur (IND) 3:181
+Kore Univ of Enna (ITA)	6	12	31	3	81	0	2021	2025	5	16.2	0.0	27.0	0.0	2	1	0.4	Kore Univ of Enna (ITA) 3:081
+Univ of Tokyo (JPN)	7	45	55	3	44	0	2018	2025	8	5.5	0.0	14.666666666666666	0.0	2	2	0.25	Univ of Tokyo (JPN) 3:044
+Delft Univ of Technol (NLD)	8	46	56	3	43	0	2010	2025	16	2.6875	0.0	14.333333333333334	0.0	2	2	0.12	Delft Univ of Technol (NLD) 3:043
+Thammasat Univ (THA)	9	151	151	3	1	0	2021	2025	5	0.2	0.0	0.3333333333333333	0.0	1	1	0.2	Thammasat Univ (THA) 3:001
+Nac Cheng Kung Univ (TWN)	10	5	2	2	137	3	2018	2025	8	17.125	0.375	68.5	1.5	2	2	0.25	Nac Cheng Kung Univ (TWN) 2:137
+Qatar Univ (QAT)	11	9	3	2	102	2	2021	2025	5	20.4	0.4	51.0	1.0	2	2	0.4	Qatar Univ (QAT) 2:102
+Tokyo Inst of Technol (JPN)	12	29	45	2	52	0	2012	2025	14	3.7142857142857144	0.0	26.0	0.0	2	2	0.14	Tokyo Inst of Technol (JPN) 2:052
+Univ of Med Sciences (IRN)	13	32	47	2	51	0	2014	2025	12	4.25	0.0	25.5	0.0	2	1	0.17	Univ of Med Sciences (IRN) 2:051
+Nac Inst of Technol (IND)	14	51	4	2	38	2	2022	2025	4	9.5	0.5	19.0	1.0	2	2	0.5	Nac Inst of Technol (IND) 2:038
+Pandit Deendayal Energy Univ (IND)	15	52	5	2	38	2	2022	2025	4	9.5	0.5	19.0	1.0	2	2	0.5	Pandit Deendayal Energy Univ (IND) 2:038
+Univ of Sydney (AUS)	16	78	81	2	20	0	2008	2025	18	1.1111111111111112	0.0	10.0	0.0	1	1	0.06	Univ of Sydney (AUS) 2:020
+Constructor Univ Bremen gGmbH (DEU)	17	88	88	2	15	0	2024	2025	2	7.5	0.0	7.5	0.0	2	1	1.0	Constructor Univ Bremen gGmbH (DEU) 2:015
+Univ Gadjah Mada (IDN)	18	95	95	2	13	0	2022	2025	4	3.25	0.0	6.5	0.0	1	1	0.25	Univ Gadjah Mada (IDN) 2:013
+Indian Inst of Sci (IND)	19	96	96	2	12	0	2023	2025	3	4.0	0.0	6.0	0.0	2	1	0.67	Indian Inst of Sci (IND) 2:012
+Univ of Cambridge (GBR)	20	119	119	2	7	0	2023	2025	3	2.3333333333333335	0.0	3.5	0.0	1	1	0.33	Univ of Cambridge (GBR) 2:007
+Int Maize and Wheat Improvement Cent (CIMMYT) (BGD)	21	3	11	1	141	1	2016	2025	10	14.1	0.1	141.0	1.0	1	1	0.1	Int Maize and Wheat Improvement Cent (CIMMYT) (BGD) 1:141
+Int Maize and Wheat Improvement Cent (CIMMYT) (MEX)	22	4	12	1	141	1	2016	2025	10	14.1	0.1	141.0	1.0	1	1	0.1	Int Maize and Wheat Improvement Cent (CIMMYT) (MEX) 1:141
+Inst for Advanced Res in Artif Intell (AUT)	23	6	13	1	131	1	2022	2025	4	32.75	0.25	131.0	1.0	1	1	0.25	Inst for Advanced Res in Artif Intell (AUT) 1:131
+Inst for Transport Planning and Syst (CHE)	24	7	14	1	131	1	2022	2025	4	32.75	0.25	131.0	1.0	1	1	0.25	Inst for Transport Planning and Syst (CHE) 1:131
+Inst of Cartography and Geoinformation (CHE)	25	8	15	1	131	1	2022	2025	4	32.75	0.25	131.0	1.0	1	1	0.25	Inst of Cartography and Geoinformation (CHE) 1:131
+Hong Kong Polytech Univ (HKG)	26	10	29	1	102	0	2018	2025	8	12.75	0.0	102.0	0.0	1	1	0.12	Hong Kong Polytech Univ (HKG) 1:102
+Nac Taiwan Univ (TWN)	27	11	30	1	102	0	2018	2025	8	12.75	0.0	102.0	0.0	1	1	0.12	Nac Taiwan Univ (TWN) 1:102
+Cent for Transport Studies (GBR)	28	13	32	1	77	0	2009	2025	17	4.529411764705882	0.0	77.0	0.0	1	1	0.06	Cent for Transport Studies (GBR) 1:077
+Int Inst for Appl Syst Analysis (AUT)	29	14	33	1	77	0	2011	2025	15	5.133333333333334	0.0	77.0	0.0	1	1	0.07	Int Inst for Appl Syst Analysis (AUT) 1:077
+Japan Env Sanitation Cent (JPN)	30	15	34	1	77	0	2011	2025	15	5.133333333333334	0.0	77.0	0.0	1	1	0.07	Japan Env Sanitation Cent (JPN) 1:077
+Massachusetts Inst of Technol (USA)	31	16	35	1	77	0	2011	2025	15	5.133333333333334	0.0	77.0	0.0	1	1	0.07	Massachusetts Inst of Technol (USA) 1:077
+Nac Inst for Env Studies (JPN)	32	17	36	1	77	0	2011	2025	15	5.133333333333334	0.0	77.0	0.0	1	1	0.07	Nac Inst for Env Studies (JPN) 1:077
+Princeton Univ (USA)	33	18	37	1	77	0	2011	2025	15	5.133333333333334	0.0	77.0	0.0	1	1	0.07	Princeton Univ (USA) 1:077
+Rutgers Univ (USA)	34	19	38	1	77	0	2009	2025	17	4.529411764705882	0.0	77.0	0.0	1	1	0.06	Rutgers Univ (USA) 1:077
+Univ of Manag and Technol (PAK)	35	20	39	1	77	0	2021	2025	5	15.4	0.0	77.0	0.0	1	1	0.2	Univ of Manag and Technol (PAK) 1:077
+Univ of Nizwa (OMN)	36	21	40	1	77	0	2021	2025	5	15.4	0.0	77.0	0.0	1	1	0.2	Univ of Nizwa (OMN) 1:077
+[UKN] Geophysical Fluid Dynamics Lab, Princeton, NJ, United States (USA)	37	22	41	1	77	0	2011	2025	15	5.133333333333334	0.0	77.0	0.0	1	1	0.07	[UKN] Geophysical Fluid Dynamics Lab, Princeton, NJ, United States (USA) 1:077
+[UKN] Japan Agcy for Marine-Earth Sci and Technol, Yokohama, Japan (JPN)	38	23	42	1	77	0	2011	2025	15	5.133333333333334	0.0	77.0	0.0	1	1	0.07	[UKN] Japan Agcy for Marine-Earth Sci and Technol, Yokohama, Japan (JPN) 1:077
+C2SMART Univ Transportation Cent (USA)	39	24	43	1	57	0	2021	2025	5	11.4	0.0	57.0	0.0	1	1	0.2	C2SMART Univ Transportation Cent (USA) 1:057
+Univ of California Los Angeles (USA)	40	25	44	1	57	0	2021	2025	5	11.4	0.0	57.0	0.0	1	1	0.2	Univ of California Los Angeles (USA) 1:057
+Chiang Mai Univ (THA)	41	26	16	1	52	1	2022	2025	4	13.0	0.25	52.0	1.0	1	1	0.25	Chiang Mai Univ (THA) 1:052
+Rajamangala Univ of Technol Isan (THA)	42	27	17	1	52	1	2022	2025	4	13.0	0.25	52.0	1.0	1	1	0.25	Rajamangala Univ of Technol Isan (THA) 1:052
+Suranaree Univ of Technol (THA)	43	28	18	1	52	1	2022	2025	4	13.0	0.25	52.0	1.0	1	1	0.25	Suranaree Univ of Technol (THA) 1:052
+Kyoto Univ (JPN)	44	30	46	1	52	0	2016	2025	10	5.2	0.0	52.0	0.0	1	1	0.1	Kyoto Univ (JPN) 1:052
+World Res Inst India (WRI India) (IND)	45	33	48	1	50	0	2020	2025	6	8.333333333333334	0.0	50.0	0.0	1	1	0.17	World Res Inst India (WRI India) (IND) 1:050
+Cornell Univ (USA)	46	34	49	1	49	0	2019	2025	7	7.0	0.0	49.0	0.0	1	1	0.14	Cornell Univ (USA) 1:049
+Int Maize and Wheat Improvement Cent (MEX)	47	35	50	1	49	0	2019	2025	7	7.0	0.0	49.0	0.0	1	1	0.14	Int Maize and Wheat Improvement Cent (MEX) 1:049
+Int Maize and Wheat Improvement Cent (NPL)	48	36	51	1	49	0	2019	2025	7	7.0	0.0	49.0	0.0	1	1	0.14	Int Maize and Wheat Improvement Cent (NPL) 1:049
+Georgia Inst of Technol (USA)	49	37	19	1	48	1	2020	2025	6	8.0	0.16666666666666666	48.0	1.0	1	1	0.17	Georgia Inst of Technol (USA) 1:048
+Ningbo Univ (CHN)	50	38	20	1	48	1	2020	2025	6	8.0	0.16666666666666666	48.0	1.0	1	1	0.17	Ningbo Univ (CHN) 1:048
+Purdue Univ (USA)	51	39	21	1	48	1	2020	2025	6	8.0	0.16666666666666666	48.0	1.0	1	1	0.17	Purdue Univ (USA) 1:048
+Univ at Buffalo (USA)	52	40	22	1	48	1	2020	2025	6	8.0	0.16666666666666666	48.0	1.0	1	1	0.17	Univ at Buffalo (USA) 1:048
+Univ of Hawaii at Manoa (USA)	53	41	23	1	48	1	2020	2025	6	8.0	0.16666666666666666	48.0	1.0	1	1	0.17	Univ of Hawaii at Manoa (USA) 1:048
+Bandung Inst of Technol (IDN)	54	42	52	1	48	0	2018	2025	8	6.0	0.0	48.0	0.0	1	1	0.12	Bandung Inst of Technol (IDN) 1:048
+Shahid Beheshti Univ (IRN)	55	43	53	1	48	0	2014	2025	12	4.0	0.0	48.0	0.0	1	1	0.08	Shahid Beheshti Univ (IRN) 1:048
+[UKN] Transport Modeling at AECOM, Melbourne, VIC, Australia (AUS)	56	44	54	1	48	0	2014	2025	12	4.0	0.0	48.0	0.0	1	1	0.08	[UKN] Transport Modeling at AECOM, Melbourne, VIC, Australia (AUS) 1:048
+Indian Inst of Technol Roorkee (IND)	57	47	57	1	43	0	2020	2025	6	7.166666666666667	0.0	43.0	0.0	1	1	0.17	Indian Inst of Technol Roorkee (IND) 1:043
+Technische Univ Berlin (DEU)	58	48	58	1	43	0	2020	2025	6	7.166666666666667	0.0	43.0	0.0	1	1	0.17	Technische Univ Berlin (DEU) 1:043
+Univ of Melbourne (AUS)	59	49	59	1	39	0	2013	2025	13	3.0	0.0	39.0	0.0	1	1	0.08	Univ of Melbourne (AUS) 1:039
+[UKN] WWF South Africa, Sandton, South Africa (ZAF)	60	50	60	1	39	0	2013	2025	13	3.0	0.0	39.0	0.0	1	1	0.08	[UKN] WWF South Africa, Sandton, South Africa (ZAF) 1:039
+Argonne Nac Lab (USA)	61	53	61	1	36	0	2013	2025	13	2.769230769230769	0.0	36.0	0.0	1	1	0.08	Argonne Nac Lab (USA) 1:036
+Oriental Consultants Global Co. (JPN)	62	54	62	1	36	0	2021	2025	5	7.2	0.0	36.0	0.0	1	1	0.2	Oriental Consultants Global Co. (JPN) 1:036
+Peking Univ (CHN)	63	55	63	1	36	0	2013	2025	13	2.769230769230769	0.0	36.0	0.0	1	1	0.08	Peking Univ (CHN) 1:036
+[UKN] TNO, Dept of Sustainable Urban Mobility and Safety, Anna van Buerenplein 1, DA The Hague, 2595, Netherlands (NLD)	64	56	64	1	32	0	2023	2025	3	10.666666666666666	0.0	32.0	0.0	1	1	0.33	[UKN] TNO, Dept of Sustainable Urban Mobility and Safety, Anna van Buerenplein 1, DA The Hague, 2595, Netherlands (NLD) 1:032
+Aristotle Univ of Thessaloniki (GRC)	65	57	65	1	31	0	2023	2025	3	10.333333333333334	0.0	31.0	0.0	1	1	0.33	Aristotle Univ of Thessaloniki (GRC) 1:031
+Cent for Res and Technol Hellas (CERTH) (GRC)	66	58	66	1	31	0	2023	2025	3	10.333333333333334	0.0	31.0	0.0	1	1	0.33	Cent for Res and Technol Hellas (CERTH) (GRC) 1:031
+Univ of Kentucky (USA)	67	59	67	1	31	0	2023	2025	3	10.333333333333334	0.0	31.0	0.0	1	1	0.33	Univ of Kentucky (USA) 1:031
+Japan Transport Res Inst (JPN)	68	60	68	1	29	0	2018	2025	8	3.625	0.0	29.0	0.0	1	1	0.12	Japan Transport Res Inst (JPN) 1:029
+Nagoya Univ (JPN)	69	61	69	1	26	0	2008	2025	18	1.4444444444444444	0.0	26.0	0.0	1	1	0.06	Nagoya Univ (JPN) 1:026
+Newcastle Univ (GBR)	70	62	70	1	26	0	2008	2025	18	1.4444444444444444	0.0	26.0	0.0	1	1	0.06	Newcastle Univ (GBR) 1:026
+Massey Univ (NZL)	71	63	6	1	25	2	2022	2025	4	6.25	0.5	25.0	2.0	1	1	0.25	Massey Univ (NZL) 1:025
+Nac Univ of Comput & Emerging Sciences (PAK)	72	64	7	1	25	2	2022	2025	4	6.25	0.5	25.0	2.0	1	1	0.25	Nac Univ of Comput & Emerging Sciences (PAK) 1:025
+Unistruct Consult Engineers Pvt. Ltd. (LKA)	73	65	8	1	25	2	2022	2025	4	6.25	0.5	25.0	2.0	1	1	0.25	Unistruct Consult Engineers Pvt. Ltd. (LKA) 1:025
+Univ of Peradeniya (LKA)	74	66	9	1	25	2	2022	2025	4	6.25	0.5	25.0	2.0	1	1	0.25	Univ of Peradeniya (LKA) 1:025
+YMW Consult Engineers Pte. Ltd (SGP)	75	67	10	1	25	2	2022	2025	4	6.25	0.5	25.0	2.0	1	1	0.25	YMW Consult Engineers Pte. Ltd (SGP) 1:025
+Westbrook Cent (GBR)	76	68	71	1	24	0	2007	2025	19	1.263157894736842	0.0	24.0	0.0	1	1	0.05	Westbrook Cent (GBR) 1:024
+[UKN] Dept. of Civ Eng, Nac Univ. of Colombia, Cr. 80 #65-223-Camp Robledo, Medellín, 050034, Colombia (COL)	77	69	72	1	24	0	2022	2025	4	6.0	0.0	24.0	0.0	1	1	0.25	[UKN] Dept. of Civ Eng, Nac Univ. of Colombia, Cr. 80 #65-223-Camp Robledo, Medellín, 050034, Colombia (COL) 1:024
+[UKN] Dept. of Eng, Univ. of Luxembourg, 6 Avenue de la Fonte, Maison du Nombre, office 0435010, Esch-sur-Alzette, 4364, Luxembourg (LUX)	78	70	73	1	24	0	2022	2025	4	6.0	0.0	24.0	0.0	1	1	0.25	[UKN] Dept. of Eng, Univ. of Luxembourg, 6 Avenue de la Fonte, Maison du Nombre, office 0435010, Esch-sur-Alzette, 4364, Luxembourg (LUX) 1:024
+[UKN] Oxford Systematics, Heidelberg 3084, GPO Box 126, Australia (AUS)	79	71	74	1	24	0	2007	2025	19	1.263157894736842	0.0	24.0	0.0	1	1	0.05	[UKN] Oxford Systematics, Heidelberg 3084, GPO Box 126, Australia (AUS) 1:024
+[UKN] Significance, 2316 XB Leiden, Schipholweg 13-15, Netherlands (NLD)	80	72	75	1	24	0	2007	2025	19	1.263157894736842	0.0	24.0	0.0	1	1	0.05	[UKN] Significance, 2316 XB Leiden, Schipholweg 13-15, Netherlands (NLD) 1:024
+Iran Univ of Sci and Technol (IUST) (IRN)	81	74	77	1	23	0	2021	2025	5	4.6	0.0	23.0	0.0	1	1	0.2	Iran Univ of Sci and Technol (IUST) (IRN) 1:023
+Lorestan Univ (IRN)	82	75	78	1	23	0	2021	2025	5	4.6	0.0	23.0	0.0	1	1	0.2	Lorestan Univ (IRN) 1:023
+Univ of Florida (USA)	83	76	79	1	23	0	2022	2025	4	5.75	0.0	23.0	0.0	1	1	0.25	Univ of Florida (USA) 1:023
+[UKN] Dept of Transport, Health, Safety, IFSTTAR, 69675 Bron Cedex, Lyon, France (FRA)	84	77	80	1	23	0	2021	2025	5	4.6	0.0	23.0	0.0	1	1	0.2	[UKN] Dept of Transport, Health, Safety, IFSTTAR, 69675 Bron Cedex, Lyon, France (FRA) 1:023
+Palestine Tech Univ-Kadoorie (PSE)	85	79	82	1	20	0	2023	2025	3	6.666666666666667	0.0	20.0	0.0	1	1	0.33	Palestine Tech Univ-Kadoorie (PSE) 1:020
+Univ of Žilina (SVK)	86	80	24	1	19	1	2022	2025	4	4.75	0.25	19.0	1.0	1	1	0.25	Univ of Žilina (SVK) 1:019
+[UKN] Dept of Macro and Microeconomics, Fac of Manag Sci and Informatics, Žilina, 010 26, Slovakia (SVK)	87	81	25	1	19	1	2022	2025	4	4.75	0.25	19.0	1.0	1	1	0.25	[UKN] Dept of Macro and Microeconomics, Fac of Manag Sci and Informatics, Žilina, 010 26, Slovakia (SVK) 1:019
+[UKN] Dept of Mathematical Methods and Operations Res, Fac of Manag Sci and Informatics, Žilina, 010 26, Slovakia (SVK)	88	82	26	1	19	1	2022	2025	4	4.75	0.25	19.0	1.0	1	1	0.25	[UKN] Dept of Mathematical Methods and Operations Res, Fac of Manag Sci and Informatics, Žilina, 010 26, Slovakia (SVK) 1:019
+Abdullah Gül Univ (TUR)	89	83	83	1	18	0	2023	2025	3	6.0	0.0	18.0	0.0	1	1	0.33	Abdullah Gül Univ (TUR) 1:018
+Alexandru Ioan Cuza Univ of Iasi (ROU)	90	84	84	1	18	0	2023	2025	3	6.0	0.0	18.0	0.0	1	1	0.33	Alexandru Ioan Cuza Univ of Iasi (ROU) 1:018
+Open Univ (NLD)	91	85	85	1	18	0	2023	2025	3	6.0	0.0	18.0	0.0	1	1	0.33	Open Univ (NLD) 1:018
+Uppsala Univ (SWE)	92	86	86	1	18	0	2023	2025	3	6.0	0.0	18.0	0.0	1	1	0.33	Uppsala Univ (SWE) 1:018
+[UKN] Dept of Civ Eng and Energy Technol, OsloMet, Pilestredet 32, Oslo, 0166, Norway (NOR)	93	87	87	1	18	0	2023	2025	3	6.0	0.0	18.0	0.0	1	1	0.33	[UKN] Dept of Civ Eng and Energy Technol, OsloMet, Pilestredet 32, Oslo, 0166, Norway (NOR) 1:018
+Res Inst of Humanity and Nature (JPN)	94	89	89	1	15	0	2021	2025	5	3.0	0.0	15.0	0.0	1	1	0.2	Res Inst of Humanity and Nature (JPN) 1:015
+Space Technol Inst (VNM)	95	90	90	1	15	0	2021	2025	5	3.0	0.0	15.0	0.0	1	1	0.2	Space Technol Inst (VNM) 1:015
+Inha Univ (KOR)	96	91	91	1	14	0	2022	2025	4	3.5	0.0	14.0	0.0	1	1	0.25	Inha Univ (KOR) 1:014
+Korea Inst of Sci and Technol (KOR)	97	92	92	1	14	0	2022	2025	4	3.5	0.0	14.0	0.0	1	1	0.25	Korea Inst of Sci and Technol (KOR) 1:014
+Korea Univ (KOR)	98	93	93	1	14	0	2022	2025	4	3.5	0.0	14.0	0.0	1	1	0.25	Korea Univ (KOR) 1:014
+Univ of Auckland (NZL)	99	94	94	1	14	0	2019	2025	7	2.0	0.0	14.0	0.0	1	1	0.14	Univ of Auckland (NZL) 1:014
+Univ of British Columbia (CAN)	100	97	97	1	10	0	2022	2025	4	2.5	0.0	10.0	0.0	1	1	0.25	Univ of British Columbia (CAN) 1:010

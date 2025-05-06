@@ -1,0 +1,43 @@
+                                                                  Value
+Category          Item                                                 
+GENERAL           Timespan                                    2004:2025
+                  Documents                                         112
+                  Annual growth rate %                            23.92
+                  Document average age                             4.88
+                  References                                       5578
+                  Average citations per document                  18.26
+                  Average citations per document per year          0.83
+                  Average references per document                  49.8
+                  Sources                                            65
+                  Average documents per source                     1.72
+DOCUMENT TYPES    Article                                           112
+AUTHORS           Authors                                           376
+                  Authors of single-authored documents                4
+                  Single-authored documents                           4
+                  Multi-authored documents                          108
+                  Authors per document                             3.74
+                  Co-authors per document                          3.84
+                  International co-authorship %                   42.34
+                  Author appearances                                419
+                  Documents per author                             0.27
+                  Collaboration index                              3.88
+                  organizations                                     219
+                  Organizations (1st author)                         96
+                  Countries                                          56
+                  Countries (1st author)                             40
+                  Regions                                             7
+                  Subregions                                         14
+KEYWORDS          Author keywords (raw)                             414
+                  Author keywords (cleaned)                         376
+                  Index keywords (raw)                              882
+                  Index keywords (cleaned)                          800
+                  Keywords (raw)                                   1141
+                  Keywords (cleaned)                                980
+NOUNS AND PHRASES Document title nouns and phrases (raw)            426
+                  Document title nouns and phrases (cleaned)        373
+                  Abstract nouns and phrases (raw)                 4579
+                  Abstract nouns and phrases (cleaned)             3325
+                  Nouns and phrases (raw)                          4789
+                  Nouns and phrases (cleaned)                      3481
+DESCRIPTORS       Descriptors (raw)                                5521
+                  Descriptors (cleaned)                            3933

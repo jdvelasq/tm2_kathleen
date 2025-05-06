@@ -1,0 +1,331 @@
+[UNKNWON]
+    Faculty of Architecture, National University of Laos, P.O. Box 7322, Vientiane, 0117, Laos
+Australia
+    George Institute for International Health, University of Sydney, Sydney, Australia
+    Injury Division, George Institute for International Health, University of Sydney, Sydney NSW 2050, Missenden Road, Australia
+    Injury Division, George Institute for International Health, University of Sydney, Sydney, Australia
+    Institute of Transport and Logistics Studies, The University of Sydney, Australia
+    Oxford Systematics, Heidelberg 3084, GPO Box 126, Australia
+    Transport Modeling at AECOM, Melbourne, VIC, Australia
+    University of Melbourne, Parkville, VIC 3010, Australia
+Austria
+    Institute for Advanced Research in Artificial Intelligence, Landstraßer Hauptstraße 5, Vienna, 1030, Austria
+    Institute for Transport Studies, University of Natural Resources and Life Sciences (BOKU), Vienna, 1180, Austria
+    International Institute for Applied Systems Analysis, Laxenburg, Austria
+Azerbaijan
+    Industrial Data Analytics and Decision Support Systems Center, Azerbaijan State University of Economics, UNEC, Baku, 1001, Azerbaijan
+Bangladesh
+    International Maize and Wheat Improvement Centre (CIMMYT), Bangladesh Country Office, House 10/B, Road 53, Gulshan-2, Dhaka, 1213, Bangladesh
+Belgium
+    Department of Geography, University of Ghent, Belgium
+    Department of Informatics, Simulation and Modeling, KULeuven Campus Brussels, Belgium
+    Faculty of Business Economics, Hasselt University, Agoralaan Gebouw D, Diepenbeek, 3590, Belgium
+    Local Environment & Management Analysis (LEMA), Urban and Environmental Engineering (UEE), University of Liège, Quartier Polytech 1, Allée de la Découverte 9, Liège, 4000, Belgium
+Brazil
+    Universidade Federal de Pernambuco, Caixa Postal 5125, Recife, 52070-970, Brazil
+    Universidade Federal de Pernambuco, Centro Acadêmico do Agreste, Caruaru, 55014-900, Brazil
+Cameroon
+    Health of Populations in Transition (HoPiT) Research Group, Faculty of Medicine and Biomedical Sciences, The University of Yaoundé I, Yaoundé, Cameroon
+Canada
+    School of Engineering, Department of Civil Engineering, University of British Columbia, Kelowna, BC, Canada
+    School of Engineering, Department of Mechanical Engineering, University of British Columbia, Kelowna, BC, Canada
+Chile
+    Department of Transport Engineering and Logistics, BRT + Centre of Excellence, Pontificia Universidad Católica de Chile, Santiago, Chile
+China
+    China Communications Information Technology Group Company Ltd., Beijing, 100088, China
+    College of Environmental Sciences and Engineering, State Key Joint Laboratory of Environmental Simulation and Pollution Control, Peking University, Beijing, 100871, China
+    Department of Maritime and Transportation, Ningbo University, 818 Fenghua Road, Jiangbei District, Ningbo, Zhejiang, China
+    North China Municipal Engineering Design and Research Institute Company Ltd., Tianjin, 300110, China
+    School of Automotive and Traffic Engineering, Jiangsu University, Zhenjiang, China
+    School of Transportation, Southeast University, Nanjing 210096, Si Pai Lou 2, China
+    Shanghai Institute of Preventive Medicine, Shanghai, China
+    Shanghai Municipal Center for Disease Control and Prevention, Shanghai, 200336, 1380 Zhong Shan West Road, China
+    Shanghai Municipal Center for Disease Control and Prevention, Shanghai, China
+Colombia
+    Civil Engineering Department, Universidad de Cartagena, Cartagena de Indias, Colombia
+    Civil Engineering Department, Universidad de Investigación y Desarrollo, Bucaramanga, Colombia
+    Department of Civil and Environmental Engineering, Universidad de los Andes, Bogotá, Colombia
+    Department of Civil and Environmental Engineering, Universidad del Norte, Barranquilla, Colombia
+    Dept. of Civil Engineering, National Univ. of Colombia, Cr. 80 #65-223-Campus Robledo, Medellín, 050034, Colombia
+Croatia
+    Allianz Hrvatska d.d, Zagreb, Croatia
+    Faculty of Political Science, University of Zagreb, Croatia
+    Sestre milosrdnice University Hospital Center, Zagreb, Croatia
+Ethiopia
+    Department of Civil Engineering, Institute of Technology, Hawassa University, P.O.Box: 05, Hawassa, Ethiopia
+France
+    Department of Transport, Health, Safety, IFSTTAR, 69675 Bron Cedex, Lyon, France
+    LAET–ENTPE, University of Lyon, France
+Germany
+    School of Business, Social & Decision Sciences, Constructor University Bremen gGmbH, Campus Ring 1, Bremen, 28759, Germany
+    Transport System Planning and Transport Telematics, Technische Universität Berlin, Berlin, Germany
+Ghana
+    Civil Engineering Department, Tamale Technical University, Tamale, Ghana
+    Department of Applied Economics, School of Economics, University of Cape Coast, Cape Coast, Ghana
+    Department of Economic Studies, School of Economics, University of Cape Coast, Cape Coast, Ghana
+    Department of Multidisciplinary Studies, Faculty of Applied Social Sciences, Ho Technical University, Ho, Ghana
+Greece
+    Centre for Research and Technology Hellas (CERTH), Hellenic Institute of Transport, Thermi, 57001, Greece
+    Department of Marketing and Communication, Athens University of Economics and Business, Athens, Greece
+    Department of Transportation and Hydraulic Engineering, School of Rural and Surveying Engineering, Aristotle University of Thessaloniki, Greece
+Hong Kong
+    Department of Civil and Environmental Engineering, Hong Kong Polytechnic University, Hong Kong
+Hungary
+    Department of Transport Technology and Economics, Faculty of Transportation Engineering and Vehicle Engineering, Budapest University of Technology and Economics, 1111 Műegyetem rkp. 3, Budapest, Hungary
+    Department of Transport Technology and Economics, Faculty of Transportation Engineering and Vehicle Engineering, Budapest University of Technology and Economics, Budapest, 1111, Hungary
+    Department of Transport Technology and Economics, Faculty of Transportation Engineering and Vehicle Engineering, Budapest University of Technology and Economics, Muegyetem rkp. 3, Budapest, H-1111, Hungary
+    Department of Transport Technology and Economics, Faculty of Transportation Engineering and Vehicle Engineering, Budapest University of Technology and Economics, Muegyetem ˝ rkp. 3., Budapest, Hungary
+India
+    Alliance for an Energy Efficient Economy (AEEE), New Delhi, 110024, India
+    Climate, World Resources Institute India (WRI India), New Delhi, India
+    Dean and Principal of G C Patel institute of Architecture, Surat, Gujarat, India
+    Department of Chemical Engineering, Indian Institute of Technology Bombay, Mumbai, India
+    Department of Civil Engineering, IIT Bombay, Mumbai, India
+    Department of Civil Engineering, Indian Institute of Science Bengaluru, Karnataka, Bengaluru, 560012, India
+    Department of Civil Engineering, Indian Institute of Science, Bangalore, 560012, India
+    Department of Civil Engineering, Indian Institute of Technology Ropar, Punjab, Rupnagar, 140001, India
+    Department of Civil Engineering, National Institute of Technology, Tamil Nadu, Tiruchirappalli, India
+    Department of Civil Engineering, Pandit Deendayal Energy University, Gandhinagar, Gujarat, India
+    Department of Civil Engineering, Pandit Deendayal Energy University, Gujarat, Gandhinagar, India
+    Department of Civil Engineering, Parul University, Vadodara, Gujarat, India
+    Department of Commerce, SDNB Vaishnav College for women, Chennai, Tamil Nadu, India
+    Department of Mechanical Engineering, Indian Institute of Technology Kharagpur, West Bengal, 721302, India
+    MECON Limited, Ranchi 834 002, India
+    Madras School of Economics, Tamil Nadu, Chennai, India
+    Ranbir and Chitra Gupta School of Infrastructure Design and Management (RCGSIDM), Indian Institute of Technology Kharagpur, West Bengal, 721302, India
+    Ranbir and Chitra Gupta School of Infrastructure Design and Management, Indian Institute of Technology Kharagpur, Kharagpur, 721302, West Bengal, India
+    Ranbir and Chitra Gupta School of Infrastructure Design and Management, Indian Institute of Technology Kharagpur, Kharagpur, India
+    S.D.N.B.Vaishnav College for Women, Chromepet, Chennai, Tamil Nadu, India
+    Sustainable Cities Transport, World Resources Institute India (WRI India), New Delhi, India
+    Traffic Advisor, Govt. of Punjab, India
+    Transportation Engineering Group, Department of Civil Engineering, Indian Institute of Technology Roorkee, Roorkee, India
+Indonesia
+    Anugerah Pharmindo Lestari Inc., 135 Senen Raya St., Jakarta, Indonesia
+    Bandung Institute of Technology, Bandung, 40132, Indonesia
+    Center for Sustainable Transport Management, Ministry of Transportation, Jakarta, 10110, Indonesia
+    Center for Transdisciplinary and Sustainability Sciences (CTSS), IPB University, Bogor, Indonesia
+    Department of Civil Engineering, Faculty of Engineering, Universitas Jember, Jember, 68121, Indonesia
+    Department of Civil and Environmental Engineering, Universitas Gadjah Mada, Yogyakarta, 55281, Indonesia
+    Department of Industrial Engineering, Faculty of Engineering, Universitas Sebelas Maret, Ir. Sutami St. 36A, Surakarta, 57126, Indonesia
+    Department of Industrial Engineering, Faculty of Engineering, Universitas Sebelas Maret, Surakarta, 57126, Indonesia
+    Department of Industrial Engineering, Universitas Sebelas Maret, Ir. Sutami St. No.36A, Surakarta, 57126, Indonesia
+    Department of Industrial Engineering, Universitas Sebelas Maret, Surakarta, Indonesia
+    Department of Land Transport Management, Bali Land Transport Polytechnic, Tabanan, Indonesia
+    Department of Management, Airlangga University, Airlangga Street Number 4, Surabaya City, Indonesia
+    Department of Technology Management, Sepuluh Nopember Institute of Technology (ITS), ITS Sukolilo Street, Surabaya City, Indonesia
+    Directorate of Environment, Maritime, Natural Resources, and Nuclear Policy, National Research and Innovation Agency (BRIN), Jakarta, Indonesia
+    Economic Research Institute for ASEAN and East Asia (ERIA), Jakarta, Indonesia
+    Faculty of Engineering, Sebelas Maret University, Surakarta, Jebres, 57126, Indonesia
+    Polytechnic of Energy and Mineral (PEM) Akamigas, Ministry of Energy and Mineral Resources (MEMR), Central Java, Indonesia
+    Research Centre for Behavioral and Circular Economics, National Research and Innovation Agency (BRIN), Jakarta, Indonesia
+    Research Centre for Energy Conversion and Conservation, National Research and Innovation Agency (BRIN), South Tangerang, Indonesia
+    Research Group of Industrial Engineering and Techno-Economics, Universitas Sebelas Maret, Ir. Sutami St. No.36A, Surakarta, 57126, Indonesia
+    University Centre of Excellence for Electrical Energy Storage Technology, Universitas Sebelas Maret, Surakarta, Indonesia
+    Urban and Regional Planning Program Study, Universitas Trisakti, Jakarta, Indonesia
+Iran
+    Civil Engineering Department, Amirkabir University of Technology, Iran
+    Civil and Environmental Engineering Department, Amirkabir University of Technology, Tehran, Iran
+    Department of Health and Community Medicine, Faculty of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+    Department of Research Affairs, Safety Promotion and Injury Prevention Research Center of Shahid Beheshti, University of Medical Sciences, Next to Taleghani Hospital, Evin, Tehran, Iran
+    Department of Statistics, Statistics School of Shahid Beheshti University, Tehran, Iran
+    Departments of Epidemiology, Safety Promotion and Injury Prevention Research Center of Shahid Beheshti, University of Medical Sciences, Tehran, Iran
+    Faculty of Architecture and Environmental Design, Iran University of Science and Technology (IUST), Narmak 1684613114, Tehran, Iran
+    Faculty of Mathematical Science, Department of Statistics, Shahid Beheshti University, Tehran, Iran
+    Faculty of Urban Planning, Lorestan University, Khoramabad, Iran
+    Health Human Resources Research Center, School of Health Management and Information Sciences, Shiraz University of Medical Sciences, Shiraz, Iran
+    Health Policy Research Center, Institute of Health, Shiraz University of Medical Sciences, Shiraz, Iran
+    Non-communicable Diseases Research Center, Department of Epidemiology, School of Health, Shiraz University of Medical Sciences, Shiraz, Iran
+    Safety Promotion and Injury Prevention Research Center of Shahid Beheshti, University of Medical Sciences, Tehran, Iran
+Ireland
+    School of Architecture, Planning and Environmental Policy, University College Dublin, Dublin, D04 V1W8, Ireland
+Italy
+    Department of Civil Environmental and Architectural Engineering, University of Padova, Padova, 35131, Italy
+    Department of Industrial Engineering, University of Padova, Padova, 35131, Italy
+    Dipartimento di Scienze Economiche, Aziendali, Matematiche e Statistiche “Bruno de Finetti”, Università degli Studi di Trieste, Via A.Valerio, Trieste, 4/1 34127, Italy
+    Faculty of Engineering and Architecture, Kore University of Enna, Cittadella Universitaria, Enna, 94100, Italy
+    Faculty of Engineering and Architecture, University of Enna Kore, Cittadella Universitaria, Enna, 94100, Italy
+Japan
+    Built Environment Department, Tokyo Institute of Technology, 4259 J3-26, Nagatsuta-cho, Midori-ku, Yokohama, 226-8502, Japan
+    Department of Civil Engineering, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan
+    Department of Civil Engineering, The University of Tokyo, Tokyo, 113-8656, Japan
+    Department of Civil and Environmental Engineering, Nagoaka Technical University, Nagoaka, Japan
+    Department of International Development Engineering, Tokyo Institute of Technology, Meguro-Ku, Tokyo 152-8550, 2-12-1, O-Okayama, Japan
+    Department of Urban Management, Kyoto University, Kyoto, Japan
+    Division of Engineering and Policy for Sustainable Environment, Hokkaido University, Hokkaido, 060-0808, Japan
+    Faculty of Human-Environment Studies, Kyushu University, Fukuoka, 819-0395, Japan
+    Graduate School of Environmental Studies, Nagoya University, Nagoya, 464-8603, Chikusa-ku, Furo-cho, Japan
+    Graduate School of Human-Environment Studies, Kyushu University, Fukuoka, 819-0395, Japan
+    Institute for Global Environmental Strategies (IGES), 2108-11 Kamiyamaguchi, Hayama, Kanagawa, Japan
+    Institute of Industrial Science, The University of Tokyo, Tokyo, Japan
+    Japan Agency for Marine-Earth Science and Technology, Yokohama, Japan
+    Japan Environmental Sanitation Center, Asia Center for Air Pollution Research, Niigata, Japan
+    National Institute for Environmental Studies, Tsukuba, Japan
+    Oriental Consultants Global Co., Ltd., Tokyo Opera City Tower 9F, 20-2, Nishishinjuku 3-chome, Shinjuku, 163-1409, Tokyo, Japan
+    Research Department, Japan Transport Research Institute, 3-18-19, Toranomon, Minato-ku, Tokyo, 105-0001, Japan
+    Research Institute of Humanity and Nature, Kyoto, Japan
+    School of Systems Engineering, Kochi University of Technology, Kochi, Kami City, Japan
+    Senior Economist, Oriental Consultants Global Co., Ltd., Japan
+    United National University-Institute for the Advanced Study of Sustainability (UNU-IAS), Tokyo, Japan
+Kenya
+    Center for Global Health Research, Kenya Medical Research Institute (KEMRI), P.O. Box 1578, Kisumu, 40100, Kenya
+    Japan International Cooperation Agency (JICA), Britam Tower 22nd & 23rd Flrs, Upper Hill Road, P.O. Box 50572-00200, Nairobi, Kenya
+Kuwait
+    College of Engineering and Technology, American University of the Middle East, Egaila, 54200, Kuwait
+Luxembourg
+    Dept. of Engineering, Univ. of Luxembourg, 6 Avenue de la Fonte, Maison du Nombre, office 0435010, Esch-sur-Alzette, 4364, Luxembourg
+Malaysia
+    Department of Urban and Regional Planning, Faculty of Built Environment, University of Malaya, Kuala Lumpur, 50603, Malaysia
+    Faculty of Mechanical Engineering, Universiti Teknologi Malaysia, Johor Bahru, 81310, Malaysia
+Mexico
+    International Maize and Wheat Improvement Center (CIMMYT), Carretera México-Veracruz Km. 45, El Batán, Texcoco, C.P. 56237, Mexico
+    International Maize and Wheat Improvement Center, El Batan, Mexico
+Nepal
+    International Maize and Wheat Improvement Center, South Asia Regional Office, Kathmandu, Nepal
+Netherlands
+    Delft University of Technology, Faculty of Civil Engineering and Geosciences, Stevinweg 1, CN Delft, 2628, Netherlands
+    Delft University of Technology, Faculty of Technology, Policy and Management, Jaffalaan 5, BX Delft, 2628, Netherlands
+    Department of Engineering Systems and Services, Faculty of Technology, Policy and Management, Delft University of Technology, Jaffalaan 5, Delft, 2628, BX, Netherlands
+    Department of Human Geography and Spatial Planning, Utrecht University, Utrecht, Netherlands
+    Department of Safety Science, Delft University of Technology, 2000 GA Delft, P.O. Box 5015, Netherlands
+    Department of Transport & Planning, Faculty of Civil Engineering and Geosciences, Delft University of Technology, Stevinweg 1, Delft, 2628, CN, Netherlands
+    Open University of the Netherlands, Netherlands
+    Road Safety Assessment Department, SWOV, 2260 BB Leidschendam, P.O. Box 1090, Netherlands
+    Significance, 2316 XB Leiden, Schipholweg 13-15, Netherlands
+    TNO, Department of Sustainable Urban Mobility and Safety, Anna van Buerenplein 1, DA The Hague, 2595, Netherlands
+    The Faculty of Management, Open University, Heerlen, 6419, Netherlands
+New Zealand
+    Dept. of Economics and Energy Centre, Faculty of Business and Economics, The University of Auckland, Owen G Glen Building, 12 Grafton Road, Auckland, 1010, New Zealand
+    Energy Centre, Faculty of Business and Economics, The University of Auckland, Owen G Glen Building, 12 Grafton Road, Auckland, 1010, New Zealand
+    School of Built Environment, Massey University, East Precinct Albany Expressway, SH17, Albany, Auckland, 0632, New Zealand
+Nigeria
+    Department of Industrial and Production Engineering, University of Ibadan, OYO.., Ibadan, Nigeria
+Norway
+    Department of Civil Engineering and Energy Technology, OsloMet, Pilestredet 32, Oslo, 0166, Norway
+    Department of Safety, Economics, and Planning, University of Stavanger, Stavanger, 4021, Norway
+    European Safe Community Network, Drøbak, Norway
+Oman
+    Department of Civil and Environmental Engineering, University of Nizwa, Birkat-al-Mouz, Nizwa, 616, Oman
+Pakistan
+    Civil Engineering Department, COMSATS University Islamabad, Wah Campus, Wah Cantt, Pakistan
+    Department of Civil Engineering, NED University of Engineering and Technology, Karachi, Pakistan
+    Department of Civil Engineering, National University of Computer & Emerging Sciences, Lahore, Pakistan
+    Department of Civil Engineering, School of Engineering, University of Management and Technology, Lahore, 54782, Pakistan
+Palestine
+    Department of Buildings,Roads,and Space Engineering, Faculty of Engineering and Technology, Palestine Technical University-Kadoorie, Tulkarm, P304, Palestine
+Qatar
+    Qatar Transportation and Traffic Safety Center, Department of Civil Engineering, College of Engineering, Qatar University, PO Box 2713, Doha, Qatar
+    Qatar Transportation and Traffic Safety Center, Department of Civil and Architectural Engineering, College of Engineering, Qatar University, P.O. Box 2713, Doha, Qatar
+Romania
+    Centre for European Studies, Alexandru Ioan Cuza University of Iasi, Iasi, 700506, Romania
+Serbia
+    University of Belgrade, Faculty of Transport and Traffic Engineering, Vojvode Stepe 305, Belgrade, 11010, Serbia
+Singapore
+    YMW Consulting Engineers Pte. Ltd, Beach Rd, Singapore
+Slovakia
+    Department of International Research Projects (ERAdiate+), University of Žilina, Žilina, 010 26, Slovakia
+    Department of Macro and Microeconomics, Faculty of Management Science and Informatics, Žilina, 010 26, Slovakia
+    Department of Mathematical Methods and Operations Research, Faculty of Management Science and Informatics, Žilina, 010 26, Slovakia
+South Africa
+    WWF South Africa, Sandton, South Africa
+South Korea
+    Department of Industrial Engineering, Inha University, Incheon, 22212, South Korea
+    Department of Urban and Regional Development, Hanyang University, Seoul, 133‐791, South Korea
+    Energy Environment Policy and Technology, Graduate School of Energy and Environment (KU-KIST Green School), Korea University, Seoul, 02841, South Korea
+    Policy Department, Korea Institute of Science and Technology, 5, Hwarang-ro 14-gil, Seongbuk-gu, Seoul, 02792, South Korea
+Spain
+    Department of Organizational Engineering, Business Administration and Statistics, Universidad Politécnica de Madrid, Madrid, 28012, Spain
+    Research Group on Energy, Economy and System Dynamics (GEEDS), University of Valladolid, Valladolid, Spain
+    Transport Research Center (TRANSyT), Universidad Politécnica de Madrid, Madrid, 28040, Spain
+Sri Lanka
+    Department of Civil Engineering, University of Peradeniya, Kandy, Sri Lanka
+    Unistruct Consulting Engineers Pvt. Ltd., Manipay, Jaffna, Sri Lanka
+Sweden
+    Department of Social and Economic Geography, Uppsala University, Uppsala, 75120, Sweden
+Switzerland
+    ETH Zürich, Institute for Transport Planning and Systems, Stefano-Franscini-Platz 5, Zürich, 8093, Switzerland
+    ETH Zürich, Institute of Cartography and Geoinformation, Stefano-Franscini-Platz 5, Zürich, 8093, Switzerland
+Taiwan
+    Central Region Branch Office Highway Bureau, MOTC, Taichung, Taiwan
+    DOIT, MOEA, Taiwan
+    Department of Civil Engineering, National Chi Nan University, 1, University Road, Puli, 545, Taiwan
+    Department of Civil Engineering, National Chi Nan University, Nantou 54561, Taiwan
+    Department of Civil Engineering, National Chi Nan University, Nantou, 54561, Taiwan
+    Department of Civil Engineering, National Chi Nan University, Nantou, Taiwan
+    Department of Civil Engineering, National Chi Nan University, Puli, Taiwan
+    Department of Environmental Engineering, National Cheng Kung University, Taiwan
+    Department of Transportation Technology and Management, Kainan University, Taoyuan City, Taiwan
+    EVIC Promotion Office, Taiwan Automotive Research Consortium (TARC), Taiwan
+    Graduate Institute of Environmental Engineering, National Taiwan University, Taiwan
+    Institute of Injury Prevention and Control, Taipei Medical University, Taipei City, Taiwan
+    Mechanical Engineering Department, National Taiwan University (NTUME), Hsinchu County, 30745, 35, Sanmin Rd. Cyonglin Township, Taiwan
+    National Cheng Kung University, Dept. of Transportation and Communication Management Science, Tainan City, Taiwan
+    Yuan Ze University, College of Engineering, Department of Industrial Engineering and Management, Taoyuan, 320315, Taiwan
+Thailand
+    Department of Civil Engineering, Faculty of Engineering, Chulalongkorn University, Bangkok, 10330, Thailand
+    Department of Management, Faculty of Business Administration, Rajamangala University of Technology Isan, 744, Sura Narai Rd, Nai-muang, Muang, Nakhon Ratchasima, 30000, Thailand
+    Department of Transportation Engineering, Suranaree University of Technology, 111, Maha Witthayalai Rd, Suranari, Mueang, Nakhon Ratchasima, 30000, Thailand
+    Excellence Center in Infrastructure Technology and Transportation Engineering (ExCITE), Faculty of Engineering, Chiang Mai University, 239 Huay Kaew Road, Muang, Chiang Mai, 50200, Thailand
+    Faculty of Public Health, Thammasat University, Lampang, 52190, Thailand
+    School of Civil Engineering and Technology, Sirindhorn International Institute of Technology, Thammasat University, Pathum Thani, 12120, Thailand
+    Thammasat University Research Unit in Environment, Health and Epidemiology, Lampang, 52190, Thailand
+Turkey
+    Department of Economics, Abdullah Gül University, Kayseri, 38170, Turkey
+    Engineering and Architecture Faculty, Erzurum Technical University, Erzurum, 25050, Turkey
+United Kingdom
+    Centre for Public Health, Queen's University, Belfast, United Kingdom
+    Centre for Transport Studies, Department of Civil and Environmental Engineering, Imperial College London, London, SW7 2AZ, United Kingdom
+    Department of Economics, SOAS University of London, United Kingdom
+    Institute for Transport Studies & School of Chemical and Process Engineering, University of Leeds, Leeds, LS29JT, United Kingdom
+    Institute for Transport Studies & School of Chemical and Process Engineering, University of Leeds, Leeds, United Kingdom
+    Institute for Transport Studies, University of Leeds, 36-40 University Rd, Leeds, LS2 9JT, United Kingdom
+    Institute for Transport Studies, University of Leeds, Leeds LS2 9JT, 38 University Road, United Kingdom
+    Institute for Transport Studies, University of Leeds, Leeds, LS2 9JT England, United Kingdom
+    Institute for Transport Studies, University of Leeds, Leeds, United Kingdom
+    Institute of Sustainability Leadership, University of Cambridge, Cambridge, United Kingdom
+    MRC Epidemiology Unit, School of Clinical Medicine, University of Cambridge, United Kingdom
+    MRC Epidemiology Unit, University of Cambridge, Cambridge, United Kingdom
+    Rand Europe, United Kingdom, Westbrook Centre, Cambridge CB4 1YG, Milton Road, United Kingdom
+    Transport Operations Research Group, School of Civil Engineering and Geosciences, Newcastle University, Newcastle NE1 7RU, Cassie 2.19, United Kingdom
+United States
+    Alan M. Voorhees Transportation Center, Edward J. Bloustein School of Planning and Public Policy, Rutgers University, New Brunswick, NJ 08901, United States
+    C2SMART University Transportation Center, New York University Tandon School of Engineering, Brooklyn, NY, United States
+    Center for Transportation Research, Argonne National Laboratory, Lemont, IL, United States
+    Civil & Environmental Engineering Department, Director of Infrastructure, Design, Environment, and Sustainability (IDEAS) Center, The University of North Carolina at Charlotte, 9201 University City Boulevard, Charlotte, 28223-0001, NC, United States
+    Civil and Environmental Engineering, University of Hawaii at Manoa, 2500 Campus Road, Honolulu, 96822, HI, United States
+    College of Public Health, University of Nebraska Medical Center, 984350 Nebraska Medical Center, Omaha, 68198-4350, NE, United States
+    Department of Civil Engineering, University of Kentucky, 257 Oliver Raymond Bldg., Lexington, 40506-0281, KY, United States
+    Department of Civil and Coastal Engineering, University of Florida, 1949 Stadium Rd, Gainesville, 32611, FL, United States
+    Department of Civil and Environmental Engineering, School of Transportation, University of Wisconsin-Madison, Nanjing 210096, Si Pai Lou 2, United States
+    Department of Civil and Environmental Engineering, University of Wisconsin-Madison, Madison, WI 53706, United States
+    Department of Civil, Architectural, and Environmental Engineering, The University of Texas at Austin, Austin, TX, United States
+    Department of Civil, Structural and Environmental Engineering, Institute for Sustainable Transportation and Logistics, University at Buffalo, 241 Ketter Hall, Buffalo, 14260, NY, United States
+    Department of Rehabilitation Science and Technology, University of Pittsburgh, Pittsburgh, PA, United States
+    Geophysical Fluid Dynamics Laboratory, Princeton, NJ, United States
+    Infrastructure and Environmental Systems (INES) Ph.D. Program, The University of North Carolina at Charlotte, 9201 University City Boulevard, Charlotte, 28223-0001, NC, United States
+    Institute of Transportation Studies, University of California Los Angeles, Los Angeles, CA, United States
+    Institute of Transportation Studies, University of California, Davis, Davis, CA, United States
+    Joseph M. Long Chair in Healthcare Management and Professor of Economics, Eberhardt School of Business, Thomas J. Long School of Pharmacy and Health Sciences, University of the Pacific, 3601 Pacific Avenue, Stockton, 95211, CA, United States
+    Lyles School of Civil Engineering, Center for Connected and Automated Transportation Center and NEXTRANS Center, Purdue University, 550 Stadium Mall Drive, West Lafayette, 47907-2051, IN, United States
+    Massachusetts Institute of Technology, Cambridge, MA, United States
+    Princeton University, Princeton, NJ, United States
+    School of Civil and Environmental Engineering, and H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology, Atlanta, 30332, GA, United States
+    School of Medicine, Duke University, 201 Trent Dr, Durham, 27710, NC, United States
+    School of Planning, Design & Construction, Michigan State University, 552 W. Circle Dr., East Lansing, 48840, MI, United States
+    School of Public Health, City University of New York, 2180 Third Avenue, New York, 10035, NY, United States
+    Section of Soil and Crop Sciences, School of Integrative Plant Sciences, Cornell University, New York, United States
+    World Resources Institute, Washington, DC, United States
+Vietnam
+    Department of Urban Roads and Highways, Hanoi University of Civil Engineering, No. 55 Giai Phong Street, Hanoi City, 100000, Viet Nam
+    Faculty of Economics, NEU, Viet Nam
+    Faculty of Environment, University of Science, Ho Chi Minh City, Viet Nam
+    Faculty of Environmental, Climate Change and Urban Studies, NEU, Viet Nam
+    Faculty of Food Science and Technology, Ho Chi Minh City University of Food Industry, Ho Chi Minh City, Viet Nam
+    Faculty of Labor and Environmental Protection, College of Technology II, Ho Chi Minh City, Viet Nam
+    Faculty of Transport Economics, University of Transport and Communications, Ha Noi, Viet Nam
+    French Vietnamese Centre for Education Management (CFVG), NEU, Viet Nam
+    Institute of Planning and Transportation Engineering, Hanoi University of Civil Engineering, No. 55 Giai Phong Street, Hanoi City, 100000, Viet Nam
+    International School, Duy Tan University, No. 254 Nguyen Van Linh Street, Da Nang City, 550000, Viet Nam
+    School of Finance and Banking, National Economics University, (NEU), Viet Nam
+    Space Technology Institute, Hanoi, Viet Nam
+    University of Economics – The University of Danang, Viet Nam
+    Vietnam National University, Ho Chi Minh City, Viet Nam
